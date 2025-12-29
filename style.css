@@ -1,0 +1,8 @@
+body { font-family: Arial; margin:0; }
+nav { background:#1d2731; padding:10px; }
+nav a { color:white; margin:10px; text-decoration:none; }
+header { background:#0b3c5d; color:white; padding:30px; text-align:center; }
+section { padding:40px; max-width:1000px; margin:auto; }
+footer { background:#1d2731; color:white; text-align:center; padding:15px; }
+input, textarea, button { width:100%; margin:8px 0; padding:10px; }
+button { background:#0b3c5d; color:white; border:none; }
